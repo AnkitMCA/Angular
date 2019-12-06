@@ -1,0 +1,61 @@
+/* For Mat Icons */
+/* mat-icon {
+    margin-right: 25px;
+} */
+
+
+/* For Mat Badges */
+/* div {
+    margin: 3rem;
+} */
+
+
+/*  For Mat Navbar */
+/* .navbar {
+    justify-content: space-between;
+}
+span {
+    padding-right: 1rem;
+} */
+
+
+/* For Mat Sidenav */
+/* mat-sidenav-container {
+    height: 100%;
+}
+
+mat-sidenav, mat-sidenav-content {
+    padding: 15px;
+}
+
+mat-sidenav {
+    background-color: lightcoral;
+    width: 200px;
+} */
+
+
+/* Mat Grid List */
+/* mat-grid-tile {
+    background-color: lightblue;
+} */
+
+
+/* Mat Table */
+/* table {
+    width: 100%;
+  } */
+
+
+  /* For Virtual Scrolling */
+.number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    box-sizing: border-box;
+    height: 100px;
+}
+
+.container {
+    height: 400px;
+}
